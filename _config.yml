@@ -1,0 +1,15 @@
+title: Qihang Li
+description: Mathematics Ph.D. Candidate, University of Maryland
+url: "https://Bionas-QL.github.io"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+# Optional: change to your real email and links
+author:
+  name: Qihang Li
+  email: qhli@umd.edu
+links:
+  github: https://github.com/Bionas-QL
+  scholar: https://scholar.google.com/
+  orcid: https://orcid.org/

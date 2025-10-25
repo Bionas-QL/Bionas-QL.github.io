@@ -1,0 +1,1 @@
+Put your avatar.jpg here and link it from index.md if desired.
