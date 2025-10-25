@@ -1,3 +1,4 @@
+
 ---
 title: Qihang Li
 ---
@@ -10,11 +11,12 @@ I am a Ph.D. Candidate in Mathematics at University of Maryland and my advisor i
 
 **I am currrently on the job market for postdoctral positions starting in Fall 2026.**
 
+<img src="/assets/img/Li_Qihang.jpg" alt="Qihang Li" width="200">
+
 I do research in **Number Theory** and **Representation Theory**. My recent interest focuses on integral models and local models of Shimura varieties with **deeper level structure** and nearby cycles on them.
 
-- 📄 **CV**: [Download PDF](/files/CV.pdf)
+- 📄 **CV**: [CV](/files/CV.pdf)
 - ✉️ **Email**: mathlqh AT umd DOT edu
-- 🧑‍💻 **GitHub**: [Bionas-QL](https://github.com/Bionas-QL)
 
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
