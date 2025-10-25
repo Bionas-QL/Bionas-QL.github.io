@@ -7,18 +7,15 @@ permalink: /publications
 
 # Publications
 
-- **Q. Li**, *Compatibility of semisimple local Langlands parameters with parahoric Satake parameters*, **Manuscripta Mathematica**, 2022.  
-  DOI / arXiv: _add link_
-
-- **Q. Li**, T. Haines, *Nearby cycles and test functions for Siegel modular varieties with $\Gamma_1(p)$-level*, _preprint / to appear_.  
-  arXiv: _add link_
+- Compatibility of semisimple local Langlands parameters with parahoric Satake parameters, **Manuscripta Mathematica**, 2022. [Journal](https://doi.org/10.1007/s00229-022-01454-3) [arXiv](https://arxiv.org/abs/2205.09152)
 
 # Preprints & Work in Progress
 
-- _Add your in-preparation manuscripts here_
-
+- The test function conjecture for pro-$p$ Iwahori local models of general linear groups and general symplectic groups. [Preprint](/files/Test_function_conjecture_paper.pdf)
+- Local models and nearby cycles for $\Gamma_1(p)$-level structure. (In preparation with Thomas J. Haines and Benoît Stroh; appear soon)
+  
 # Talks & Slides (optional)
 
-- _Add conference / seminar talks with links to slides_
+- Lie Groups and Representation Theory Seminar at University of Maryland (09/12/2022).
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
