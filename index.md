@@ -6,16 +6,15 @@ title: Qihang Li
 
 # Qihang Li (李启航)
 
-Ph.D. Candidate in Mathematics @ University of Maryland  
-Advisor: Prof. Thomas Haines
+I am a Ph.D. Candidate in Mathematics at University of Maryland and my advisor is Prof. [Thomas Haines](https://math.umd.edu/~tjh/). I got my undergraduate degree at Zhejiang University.
 
-My research lies in arithmetic geometry and representation theory, especially **Shimura varieties**, **integral & local models**, and **nearby cycles** in the context of the Langlands program.
+**I am currrently on the job market for postdoctral positions starting in Fall 2026.**
+
+I do research in **Number Theory** and **Representation Theory**. My recent interest focuses on integral models and local models of Shimura varieties with **deeper level structure** and nearby cycles on them.
 
 - 📄 **CV**: [Download PDF](/files/CV.pdf)
-- ✉️ **Email**: qhli@umd.edu
+- ✉️ **Email**: mathlqh AT umd DOT edu
 - 🧑‍💻 **GitHub**: [Bionas-QL](https://github.com/Bionas-QL)
-- 🎓 **Google Scholar**: (add your link)
 
-If you see LaTeX like $\mathrm{GSp}_{2g}$ or $\Gamma_1(p)$, MathJax will render it.
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
