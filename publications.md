@@ -19,7 +19,7 @@ permalink: /publications
 - The test function conjecture for pro-$p$ Iwahori local models of general linear groups and general symplectic groups. [Preprint](/files/Test_function_conjecture_paper.pdf)
 - Local models and nearby cycles for $\Gamma_1(p)$-level structure. (In preparation with Thomas J. Haines and Benoît Stroh; appear soon)
   
-# Talks & Slides (optional)
+# Talks
 
 - Lie Groups and Representation Theory Seminar at University of Maryland (09/12/2022).
 
