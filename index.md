@@ -8,7 +8,7 @@ title: Qihang Li
 
 I am a Ph.D. Candidate in Mathematics at University of Maryland and my advisor is Prof. [Thomas Haines](https://math.umd.edu/~tjh/). I got my undergraduate degree at Zhejiang University.
 
-**I am currently on the job market for postdoctral positions starting in Fall 2026.**
+**I am currently on the job market for postdoctoral positions starting in Fall 2026.**
 
 <img src="/assets/img/Li_Qihang.jpg" alt="Qihang Li" width="200">
 
