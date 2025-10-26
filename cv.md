@@ -9,4 +9,3 @@ permalink: /cv
 
 - 📄 **Download CV (PDF)**: [CV.pdf](/files/CV.pdf)
 
-> Replace `/files/CV.pdf` with your actual CV file (same filename).
