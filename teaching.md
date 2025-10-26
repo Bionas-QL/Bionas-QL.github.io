@@ -9,12 +9,14 @@ permalink: /teaching
 
 **University of Maryland**
 
-- Instructor, **MATH 140: Calculus I** — Fall 2024
-- TA, **MATH 401: Applications of Linear Algebra** — Spring 2024
-- TA, **MATH 310: Introduction to Number Theory** — Fall 2023
+- TA, Introduction to Linear Algebra - Spring 2025
+- TA, Introduction to Linear Algebra - Fall 2024
+- TA, Introduction to Linear Algebra - Spring 2024
+- TA, Calculus I - Fall 2022
+- TA, Calculus I - Spring 2021
+- TA, Elementary Calculus I — Fall 2020
+- TA, Introduction to Linear Algebra - Spring 2020
 
 ## Teaching Awards
-- Aziz Osborn Gold Medal in Teaching Excellence, 2024–2025
+- **Aziz Osborn Gold Medal in Teaching Excellence**, 2024–2025
 
-## Course Materials (optional)
-- _Add syllabi, problem sets, or notes (link to GitHub repos or PDFs)._
