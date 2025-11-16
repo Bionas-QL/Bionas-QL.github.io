@@ -21,6 +21,7 @@ permalink: /publications
   
 # Talks
 
+- Johns Hopkins University-University of Maryland Algebra and Number Theory Day (11/15/2025).
 - Lie Groups and Representation Theory Seminar at University of Maryland (09/12/2022).
 
 
